@@ -1,0 +1,222 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Luna enchanted a spell using <sup>12</sup>&frasl;<sub>18</sub> of her magic power. What is this fraction simplified to?",
+        "options": [
+            "./assests/images/1.jpg",
+            "./assests/images/2.jpg",
+            "./assests/images/3.jpg",
+            "./assests/images/4.jpg"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Luna discovered that <sup>16</sup>&frasl;<sub>24</sub> of a rare herb. What is this fraction reduced to?",
+        "options": [
+            "./assests/images/5.jpg",
+            "./assests/images/6.jpg",
+            "./assests/images/7.jpg",
+            "./assests/images/8.jpg"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Merlin cast a spell using <sup>24</sup>&frasl;<sub>36</sub> of his magic. What is this fraction simplified to?",
+        "options": [
+            "./assests/images/9.jpg",
+            "./assests/images/10.jpg",
+            "./assests/images/11.jpg",
+            "./assests/images/12.jpg"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Merlin and Luna brewed a healing potion using <sup>14</sup>&frasl;<sub>21</sub> of their magic herbs. What is this fraction reduced to?",
+        "options": [
+            "./assests/images/13.jpg",
+            "./assests/images/14.jpg",
+            "./assests/images/15.jpg",
+            "./assests/images/16.jpg"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Luna enchanted a shield using <sup>65</sup>&frasl;<sub>70</sub> of her power. What is this fraction simplified to?",
+        "options": [
+            "./assests/images/17.jpg",
+            "./assests/images/18.jpg",
+            "./assests/images/19.jpg",
+            "./assests/images/20.jpg"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q6",
+        "question": "Merlin mixed <sup>32</sup>&frasl;<sub>48</sub> of a potion. What is this fraction reduced to?",
+        "options": [
+            "./assests/images/21.jpg",
+            "./assests/images/22.jpg",
+            "./assests/images/23.jpg",
+            "./assests/images/24.jpg"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Merlin and Luna simplified <sup>120</sup>&frasl;<sub>130</sub> to its lowest terms. What is the simplified form?",
+        "options": [
+            "./assests/images/25.jpg",
+            "./assests/images/26.jpg",
+            "./assests/images/27.jpg",
+            "./assests/images/28.jpg"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8",
+        "question": "Merlin and Luna brewed a potion using <sup>70</sup>&frasl;<sub>90</sub> of their magical ingredients. What is the simplified fraction of the potion's power?",
+        "options": [
+            "./assests/images/29.jpg",
+            "./assests/images/30.jpg",
+            "./assests/images/31.jpg",
+            "./assests/images/32.jpg"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q9",
+        "question": "Merlin mixed <sup>2</sup>&frasl;<sub>3</sub> of a potion with <sup>4</sup>&frasl;<sub>5</sub> of another. What is the result of multiplying these fractions?",
+        "options": [
+            "./assests/images/33.jpg",
+            "./assests/images/34.jpg",
+            "./assests/images/35.jpg",
+            "./assests/images/36.jpg"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q10",
+        "question": "Merlin and Luna decided to brew a powerful potion using their newfound knowledge of fractions. They needed to mix <sup>4</sup>&frasl;<sub>3</sub> of a rare elixir with <sup>3</sup>&frasl;<sub>5</sub> of a mystical essence. Find what simplified fraction of the total mixture did they use?",
+        "options": [
+            "./assests/images/37.jpg",
+            "./assests/images/38.jpg",
+            "./assests/images/39.jpg",
+            "./assests/images/40.jpg"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q11",
+        "question": "Merlin and Luna are preparing another potion. They decided to mix <sup>3</sup>&frasl;<sub>5</sub> of unicorn hair with <sup>7</sup>&frasl;<sub>9</sub> of centaur tears. What fraction will they get on multiplying both potions?",
+        "options": [
+            "./assests/images/41.jpg",
+            "./assests/images/42.jpg",
+            "./assests/images/43.jpg",
+            "./assests/images/44.jpg"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q12",
+        "question": "What is <sup>7</sup>&frasl;<sub>9</sub> times <sup>3</sup>&frasl;<sub>4</sub>, a multiplication problem Merlin and Luna tackled?",
+        "options": [
+            "./assests/images/45.jpg",
+            "./assests/images/46.jpg",
+            "./assests/images/47.jpg",
+            "./assests/images/48.jpg"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q13",
+        "question": "Luna created a charm using <sup>3</sup>&frasl;<sub>7</sub> of a starlight essence and <sup>6</sup>&frasl;<sub>11</sub> of a moonbeam essence. What fraction of the charm's power does this represent?",
+        "options": [
+            "./assests/images/49.jpg",
+            "./assests/images/50.jpg",
+            "./assests/images/51.jpg",
+            "./assests/images/52.jpg"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q14",
+        "question": "Merlin and Luna needed to enhance their potion's effectiveness. They decided to multiply <sup>3</sup>&frasl;<sub>7</sub> of dragon scales with <sup>4</sup>&frasl;<sub>5</sub> of unicorn hair. What fraction of the total mixture does this represent?",
+        "options": [
+            "./assests/images/53.jpg",
+            "./assests/images/54.jpg",
+            "./assests/images/55.jpg",
+            "./assests/images/56.jpg"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q15",
+        "question": "Luna enchanted a shield using <sup>5</sup>&frasl;<sub>6</sub> of her magic energy and <sup>4</sup>&frasl;<sub>9</sub> of her elemental power. What is the resulting fraction of the enchanted shield's strength?",
+        "options": [
+            "./assests/images/57.jpg",
+            "./assests/images/58.jpg",
+            "./assests/images/59.jpg",
+            "./assests/images/60.jpg"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q16",
+        "question": "What is <sup>3</sup>&frasl;<sub>4</sub> times <sup>6</sup>&frasl;<sub>5</sub>, a spell Merlin and Luna mastered?",
+        "options": [
+            "./assests/images/61.jpg",
+            "./assests/images/62.jpg",
+            "./assests/images/63.jpg",
+            "./assests/images/64.jpg"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q17",
+        "question": "What is <sup>15</sup>&frasl;<sub>25</sub> times <sup>20</sup>&frasl;<sub>25</sub>, a multiplication challenge faced by Merlin and Luna?",
+        "options": [
+            "./assests/images/65.jpg",
+            "./assests/images/66.jpg",
+            "./assests/images/67.jpg",
+            "./assests/images/68.jpg"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q18",
+        "question": "Merlin and Luna simplified <sup>82</sup>&frasl;<sub>98</sub> to its lowest terms. What is the simplified form?",
+        "options": [
+            "./assests/images/69.jpg",
+            "./assests/images/70.jpg",
+            "./assests/images/71.jpg",
+            "./assests/images/72.jpg"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q19",
+        "question": "What is <sup>13</sup>&frasl;<sub>11</sub> times <sup>12</sup>&frasl;<sub>15</sub>, a fraction product that Merlin and Luna calculated?",
+        "options": [
+            "./assests/images/73.jpg",
+            "./assests/images/74.jpg",
+            "./assests/images/75.jpg",
+            "./assests/images/76.jpg"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q20",
+        "question": "What is the product of <sup>11</sup>&frasl;<sub>19</sub> and <sup>15</sup>&frasl;<sub>10</sub>, as calculated by Merlin and Luna?",
+        "options": [
+            "./assests/images/77.jpg",
+            "./assests/images/78.jpg",
+            "./assests/images/79.jpg",
+            "./assests/images/80.jpg"
+        ],
+        "correct": 1
+    }
+]
